@@ -1,0 +1,98 @@
+Auteur : Cedric HUMBERT 
+
+Eleve Ingénieur Spécialisé Informatique et Nouvelles Technologies
+4 ième année
+
+---------------------- Linkedin ----------------------------- 
+linkedin.com/pub/c%C3%A9dric-humbert/a3/346/44a
+
+
+----------------------- Notice ------------------------------ 
+Ce dossier contient un ensemble de projet sur lesquels j'ai travaillé seul ou en équipe dans le cadre de travaux universtaires ou personnels. Ce document contient un récapitulatif de chacun de ces travaux. 
+
+
+------------------------ Travaux -----------------------------
+Titre : Gestionnaire de base de donnees en Langage C  
+Date : 2013 
+Sujet : Ecrire un programme permettant d'administrer une base de donnees de taille modulable. 
+Resume : Le programme est code en francais et fait environ 1 000 lignes, deux versions sont présentees. 
+		------------------------ 
+
+Titre : Simulation Aservicement Robot Matlab Simulink 
+Date : 2013 
+Sujet : Modelisation d'un système d'asservissement en vitesse sur Matlab Simulink, un rapport est propose
+Resume : Projet de prise en main de Matlab sur un projet mettant en oeuvre des competances theoriques acquisent en classes preparatoires. 
+		------------------------ 
+
+Titre : Conception carte electronique controle Robot 
+Date : 2013
+Sujet : Decomposer et aprehender le fonctionnement et les composants de la carte de pilotage d'un robot, ce robot sera ensuite programme en C embarque 
+Resume : Rapport sur le travail fournit et les simulations realisee ainsi que la realisation de la carte. 
+		------------------------ 
+
+Titre : Demineur en Java 
+Date : 2014 
+Sujet : Creer un demineur en utilisant le langage Java
+Resume : Code source Java du jeu.
+		------------------------ 
+
+Titre : Ingenieur Solidaire en Action 
+Date : 2014
+Sujet : Projet en partenariat avec la communaute Emmaus de Cabries, recyclage de materiel informatique
+Resume : Le dossier contient le rapport final du groupe dans lequel j'ai participe pour ce projet. 
+		------------------------ 
+
+Titre : Recherche Operationnelle
+Date :  2014 
+Sujet : Mise en place d'un systeme de planification de conference, avec des problematiques d'optimisation d'indicateurs
+Resume : Developpement d'heuristiques en utilisant le langage VBA sur un document excel.
+		------------------------ 
+
+Titre : Programmation Robot en C embarque
+Date : 2014
+Sujet : Ecriture d'un programme de controle du robot repondant a un Cahier des Charges
+Resume : Le dossier contient le code source et le jalons nottament algorigrames de controle, ecrit en C embarque. 
+		------------------------ 
+
+Titre : Programation Systeme d'Expoitation 
+Date : 2014
+Sujet : Programation en Langage C d'une application Client/Serveur
+Resume : L'application qui est proposee est un systeme de gestionnaire de forum sur un reseau social avec un traitement de reservation de ressources. 
+		------------------------ 
+
+Titre : UML pour STEAM 
+Date : 2014
+Sujet : Decomposer en utilisant UML une application preexistante
+Resume : Le dossier contient le document utilise lors de la  soutenance.
+		------------------------ 
+
+Titre : Stage Ouvrier 
+Date : 2014
+Sujet : Rapport de Stage 
+Resume : Suite a un stage en entreprise d'une duree d'un mois rapport de stage.
+		------------------------ 
+
+Titre : Data Science Specialisation Coursera 
+Date : 2014
+Sujet : Differents projets de Data Science utilisants le langage R 
+Resume : Rendu des cours de la specialisation de proposee sur Coursera par John Hopkins University reprennant les conceptes de traitement des donnees et d'analyses scientifiques. 
+		------------------------ 
+
+Titre : Computational Investing Coursera Python
+Date : 2014
+Sujet : Differents programmes dans le langage Python dont le but est de mettre en oeuvre et tester des strategies de gestion de portefeuille 
+Resume : Scripts visants a utiliser la suite developee specifiquement pour le cours, utilisant notament NumPy et pandas
+
+
+
+
+
+
+
+
+
+
+
+
+
+

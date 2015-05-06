@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1416349149 source:/home/cedric/Documents/EMSE_2A/PSE/projet/client/client1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"include/pse.h"
+
+1416348958 /home/cedric/Documents/EMSE_2A/PSE/projet/client/client1/include/pse.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<assert.h>
+	<unistd.h>
+	<signal.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/stat.h>
+	<sys/wait.h>
+	<fcntl.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<pthread.h>
+	<semaphore.h>
+	"erreur.h"
+	"ligne.h"
+	"resolv.h"
+	"datathread.h"
+	"msgbox.h"
+	"msg.h"
+
+1380463269 /home/cedric/Documents/EMSE_2A/PSE/projet/client/client1/include/erreur.h
+	<errno.h>
+
+1380463269 /home/cedric/Documents/EMSE_2A/PSE/projet/client/client1/include/ligne.h
+
+1380463269 /home/cedric/Documents/EMSE_2A/PSE/projet/client/client1/include/resolv.h
+
+1380463269 /home/cedric/Documents/EMSE_2A/PSE/projet/client/client1/include/datathread.h
+	"dataspec.h"
+
+1380463269 /home/cedric/Documents/EMSE_2A/PSE/projet/client/client1/include/dataspec.h
+
+1380463269 /home/cedric/Documents/EMSE_2A/PSE/projet/client/client1/include/msgbox.h
+	"msg.h"
+
+1380463269 /home/cedric/Documents/EMSE_2A/PSE/projet/client/client1/include/msg.h
+
+1416350410 source:/home/cedric/Documents/EMSE_2A/PSE/projet/client/client1/modules/datathread.c
+	"../include/pse.h"
+
+1416350283 source:/home/cedric/Documents/EMSE_2A/PSE/projet/client/client1/modules/erreur.c
+	<stdarg.h>
+	"../include/pse.h"
+
+1416350291 source:/home/cedric/Documents/EMSE_2A/PSE/projet/client/client1/modules/ligne.c
+	"../include/pse.h"
+
+1416350301 source:/home/cedric/Documents/EMSE_2A/PSE/projet/client/client1/modules/msg.c
+	"../include/pse.h"
+
+1416350310 source:/home/cedric/Documents/EMSE_2A/PSE/projet/client/client1/modules/msgbox.c
+	"../include/pse.h"
+
+1416350317 source:/home/cedric/Documents/EMSE_2A/PSE/projet/client/client1/modules/resolv.c
+	"../include/pse.h"
+
+1416792191 source:/home/cedric/Documents/EMSE_2A/PSE/projet/client/client1/client1_main.c
+	"include/pse.h"
+	"head_Cli.h"
+
+1416792247 /home/cedric/Documents/EMSE_2A/PSE/projet/client/client1/head_Cli.h
+	"structures.h"
+	"TOMM_Cli.h"
+
+1416791936 /home/cedric/Documents/EMSE_2A/PSE/projet/client/client1/structures.h
+
+1416792165 /home/cedric/Documents/EMSE_2A/PSE/projet/client/client1/TOMM_Cli.h
+
+1416792912 source:/home/cedric/Documents/EMSE_2A/PSE/projet/client/client1/Net_Cli1.c
+	"include/pse.h"
+	"head_Cli.h"
+
+1416793539 source:/home/cedric/Documents/EMSE_2A/PSE/projet/client/client1/TOMM_Cli.c
+	"include/pse.h"
+	"head_Cli.h"
+

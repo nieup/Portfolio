@@ -1,0 +1,14 @@
+***************************** 
+ Nom : milka 
+Ident : ch.1 
+Espece : chien 
+Cage : 56 
+Historique : le chien de M. Paul 
+ 
+Date d'entré : Le 20 / 12 / 2013 
+ Centre Aix 
+ 
+Le 20 / 12 / 2013 
+Descriptif du centre : lalal
+ 
+Vous avez 1 animaux dans vos locaux 

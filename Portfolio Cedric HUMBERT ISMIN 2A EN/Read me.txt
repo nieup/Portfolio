@@ -1,0 +1,97 @@
+Author : Cedric HUMBERT 
+
+Student Ms. Engineering 4th year 
+Ecole des Mines St-Etienne 
+
+---------------------- Linkedin ----------------------------- 
+linkedin.com/pub/c%C3%A9dric-humbert/a3/346/44a/en
+
+
+----------------------- Info ------------------------------  
+This file contains an overview of projets on which I worked as a student or on free time. This document contains a summary of each projet. 
+
+
+------------------------ Projets -----------------------------
+Name : Data Base manager design using C Language   
+Date : 2013 
+Purpose : Write a program enabling the administration of a small but modular data base 
+Resume : The program is written in french and is about 1 000 lignes of of code, two versions are presented. 
+		------------------------ 
+
+Name : Simulation of Aservicement of a Robot using Matlab Simulink 
+Date : 2013 
+Purpose : Create the model of a system and its command in speed using Matlab Simulink
+Resume : Mostly a first aproach to Matlab putting into practice theoretical knowledge developped in preparatory years.
+		------------------------ 
+
+Name : Conception of central electronic card for Robot
+Date : 2013
+Purpose : Decompose and understand the concepts and components of the card, the micro controller will then be programmed using C
+Resume : The report written on the simulations and tests on the different systems of the card. 
+		------------------------ 
+
+Name : Minesweeper in Java 
+Date : 2014 
+Sujet : Create a windows like minesweeper using Java
+Resume : The source code of the game is in the file.
+		------------------------ 
+
+Name : Ingenieur Solidaire en Action 
+Date : 2014
+Purpose : Projet with the Emmaus community in Cabries, recycling of electronic devices and repair. 
+Resume : The file contains the final report of the project, it is however in French.
+		------------------------ 
+
+Name : Algorithm optimization 
+Date :  2014 
+Purpose : Deployement of a automated tool for the planification of conferences using a serie of indicators. 
+Resume : Development of heuristics using the VBA language in an Excel spreadsheet. 
+		------------------------ 
+
+Name : Robot Programming using embeded C language
+Date : 2014
+Purpose : Programing the micro controler of a robot
+Resume : The file contains the source code and the different algorigrams of the process at play in the program. 
+		------------------------ 
+
+Name : Programating Operating Systems  
+Date : 2014
+Purpose : Programing using C a Client/Serveur application on a UNIX plateform
+Resume : The application that I did was a forum and resource manager for a social network system. 
+		------------------------ 
+
+Name : UML for STEAM 
+Date : 2014
+Purpose : Decompose and analize a preexisting applicaton using UML 
+Resume : The file contains the source code and the soutenance documents.
+		------------------------ 
+
+Name : Intership report 
+Date : 2014
+Purpose : Present and explain my work during a month long intership.  
+Resume : 
+		------------------------ 
+
+Name : Data Science Specialisation Coursera 
+Date : 2014
+Purpose : Differents projects of the Data Science Specialisation using R Language
+Resume : Homeworks putting into play concepts of data analysis and scientifc research offered on Coursera by John Hopkins University
+		------------------------ 
+
+Name : Computational Investing Coursera Python
+Date : 2014
+Purpose : Differents programs using Python to test and apply strategies of portfolio management
+Resume : Scripts using in particular the QTSK suite, NumPy and Pandas. 
+
+
+
+
+
+
+
+
+
+
+
+
+

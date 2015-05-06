@@ -1,0 +1,60 @@
+Projet C 
+
+Nicolas KLAUDEL et Cédric HUMBERT 
+
+Le 17 dec 2013 
+
+----------------------------------------------------- Abstract ----------------------------------------------------------
+Ce document est un support du code fournit dans les dossers NiveauAvance et NiveauBasic
+Nous n'avons malheureusement pas de base de donnée à vous proposer pour illustrer ce code, 
+nous rencontrons un problème de transfert entre la Virtual Machine et le système d'exploitation. 
+----------------------------------------------------------------------------------------------------------------------------
+
+Le rendu : 
+
+Nous avons un niveau Basique qui fonctionne et qui répond au cahier des charges environ 600 lignes.
+Nous sommes passés au niveau Avancé depuis le 6 decembre, toutes les fonctions ont été testées, 
+elles marchent toute sauf la 4, Ajout de colonne dans table avec laquel nous rencontrons un gros bug 
+du system lié à des strcat et srtcpy. 
+Le niveau avancé contient environ 1 900 lignes réparties dans 3 fichiers. 
+
+Mise en place du projet : 
+
+Lorsque le projet a été réçu nous en avons pris connaissance de notre coté, nous nous sommes en suite concertés pour établir un plan d'action daté. Nous avons alors décidé dans un premier temps de réaliser le niveau basique, et ce pour 2 raisons :
+1. Nous souhaitions travailler sur un projet concret : gestion de centre animalier, pour des raisons qui nous sont propres. 
+2. Pour pouvoir avoir un rendu complet et assuré, nous souhaitions en effet poursuivre vers le niveau avancé. En outre avoir commencé doucement nous a permis de poser les bases de notre coopération et de se mettre au point sur un certain nombre de problèmes liés au contexte du sujet. 
+
+Définition du premier projet, NiveauBasic : 
+
+Nous avons donc mis en place un premier cahier des charges de notre gestionnaire de base de données, on trouve dans ce cahier des charges les fonctionnalités à donner au logiciel et des objectifs de date. Nous nous sommes ensuite lancé dans le code, Nicolas sur les fonction de gestion de la BDD et Cédric sur l'interface et la structure du code. 
+Les fonctions étant terminées le 4 decembre nous avons poursuivi avec le débuggage jusqu'au 7 ou nous avons un gestionnaire qui à notre sens répond au cahier des charges. 
+Le code quant à lui est contenu dans un seul fichier car il ne fait que 600 lignes, il est ainsi plus simple à transporter. Le main organise les fonctions autour, interface et système de suggestion par menu. Des fonctions indépendantes gérent ensuite les fichiers. 
+La gestion se fait sur 2 fichiers, un ou se trouve les structures et un autre que l'on peut ouvrir à l'aide du notepad. Nous avons trouvé cette technique très pratique pour le débuggage d'autant qu'elle ne générait que très peu d'erreurs. 
+
+Le second projet, NiveauAvance : 
+
+Alors que Cédric terminait la fin du débug Nicolas a commencé à mettre en place un cahier des charges et une architecture de la BDD du niveau Avancé. Nous avons alors décidé de travailler non seulement dans l'optique du niveau Avancé mais aussi du niveau Expert, pour cela nous avons divisé le travail encore une fois en deux parties, une partie Interface et une partie Gestion de Base de Données qui pourra etre réutilisée pour le niveau Expert. 
+Notre conception est orientée vers une décomposition en un grand nombre de fonctions qui réalisent une tâche bien particulière dans le programme. On peut voir cette démarche à petite échelle dans le premier projet et dans le second encore plus. Ceci favorise en outre la relecture et la compréhension de notre code. Nous avons des noms explicites en francais ou en anglais pour nos fonctions et nos variables. 
+
+
+Le troisième projet, Niveau expert : 
+
+Plutôt le développement a été commencé mais devant le manque de temps et des difficultés techniques  nous avons décidé d'arrêter ! 
+
+
+Conclusion : 
+
+La division en étapes et en tâches nous a permis d'être productif tout en nous faisant travailler ensemble et donc à échanger mais aussi à corriger le code d'une autre personne, envisager des perspectives pour notre propre codage. La gestion des bases de données est un domaine essentiel de l'informatique et nous sommes heureux d'avoir eu une première approche de cette dernière à travers un projet. Nous regrettons cependant de ne pas avoir eu plus de temps pour effectuer des recherches sur ce qui est fait ailleurs afin d'optimiser notre code et le temps de calcul. 
+
+
+
+
+
+
+
+
+
+
+
+
+

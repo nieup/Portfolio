@@ -15,7 +15,7 @@ You may also be intersted in my profiles on
 
 Or my 
 * [CV](https://docs.google.com/document/d/12Ana_M70aAShg8pvVhKzjUTV8XA7N8yg3O7Vh3uLoSY/pub)
-* [email](cedric.humbert3@gmail.com)
+* [email](mailto:cedric.humbert3@gmail.com)
 * [Twitter](https://twitter.com/CedricHSci)
 
 ## Legal inforation 
